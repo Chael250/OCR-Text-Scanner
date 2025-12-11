@@ -240,9 +240,9 @@ This project is created for educational purposes.
 
 ## Author
 
-[Your Name]  
-[Your Email]  
-[Course/Assignment Info]
+GANZA Chael
+ganzac784@gmail.com
+Intelligent Robotics
 
 ## Acknowledgments
 
